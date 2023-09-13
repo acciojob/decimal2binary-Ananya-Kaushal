@@ -9,7 +9,7 @@ let i=1;
 			num=parseInt(num/2);
 			i=i*10;
 		}
-	return a;
+	return (String)a;
   
 }
 
