@@ -1,6 +1,5 @@
 function decimalToBinary(num) {
   //Write you code here
-	let num=7;
 let a=0;
 let i=1;
 	while(num!=0)
