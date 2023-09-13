@@ -7,7 +7,7 @@ function decimalToBinary(num) {
 			a=a+r;
 			num=num/2;
 		}
-	return a;
+	console.log(a);
   
 }
 
