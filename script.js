@@ -5,7 +5,7 @@ let i=1;
 	while(num!=0)
 		{
 			let r=num%2;
-			a=a+r*i;
+			a=a+(r*i);
 			num=parseInt(num/2);
 			i=i*10;
 		}
