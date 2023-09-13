@@ -4,7 +4,7 @@ let a='';
 	while(num!=0)
 		{
 			let r=num%2;
-			a=a+r;
+			a=r+a;
 			num=parseInt(num/2);
 		}
 	return a;
