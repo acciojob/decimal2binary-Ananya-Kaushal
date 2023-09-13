@@ -7,7 +7,7 @@ let a='';
 			a=a+r;
 			num=parseInt(num/2);
 		}
-	return (String)a;
+	return a;
   
 }
 
